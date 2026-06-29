@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3ej024/jc/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 丹波元胤跋二十卷元曾榮世撰見於焦竑國史經藉志余家舊藏鈔本僅八卷文理訛舛殆不可句弟茝庭嘗從朝鮮國醫方類聚中録出成編余謂是書所載自其診視理療之法以至於平素鞠養保攝乳哺嬉戲諄二乎議之甚詳使懷抱中物免為朝菌夏蟲其幼幼之心可謂篤矣世榮又著有活幼心書楊仲叔序稱衡邑遭災連巨楝數千室俱煨爐其書板有好事者納諸池中而得無恙以為天心之使然良有以也乃若是書亦當神物擁護者不宜付於闕如之嘆矣後閲十餘年今秋七月叔父蒨園啓持竹洞後人人見友雪所藏足本而被借驚喜之餘速録一通以傳家於是乎感世榮慈念之所存果不至湮滅而喜余前言之足以懲矣記其顛末如上文政庚辰孟冬二十有二日東都丹波元胤識於柳沜精盧
+  hash: sha256:2f25521efd90213ef404ab15f76d8b733e1add8226dacd6c0404c54ddd879535
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3ej024_jc_000-d24.h1s1}
+metadata:
+  title: 活幼口議
+  edition:
+    short: jc
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ej024.xml
+hash: sha256:2f6739b1d152eb04d5bc1dedbee96b6fb2d679fec7b05b67030062e3c50d8b6a

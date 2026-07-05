@@ -5,14 +5,10 @@ markers:
   body:
   - {type: xml-element, offset: 5, content: '', id: KR3ej024_jc_000-d24p2, name: p, role: open, attrs: {'xml:id': KR3ej024_jc_000-d24p2}}
   - {type: 'tls:seg', offset: 5, content: '', id: KR3ej024_jc_000-d24.p2s1}
-  - {type: substitution, offset: 52, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4560}}
   - {type: punctuation, offset: 129, content: □, id: KR3ej024_jc_000-bkkpn1}
-  - {type: substitution, offset: 184, original: 閱, replacement: 閲, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4561}}
-  - {type: substitution, offset: 196, original: 啟, replacement: 啓, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0402}}
-  - {type: substitution, offset: 218, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4560}}
   - {type: xml-element, offset: 256, content: '', id: KR3ej024_jc_000-d24p2_end, name: p, role: close, attrs: {'xml:id': KR3ej024_jc_000-d24p2}}
   - {type: xml-element, offset: 256, content: '', id: KR3ej024_jc_000-d24p4, name: p, role: open, attrs: {'xml:id': KR3ej024_jc_000-d24p4}}
   - {type: 'tls:seg', offset: 256, content: '', id: KR3ej024_jc_000-d24.p4s1}
   - {type: xml-element, offset: 279, content: '', id: KR3ej024_jc_000-d24p4_end, name: p, role: close, attrs: {'xml:id': KR3ej024_jc_000-d24p4}}
   back: []
-hash: sha256:3303611cdbdb9e6c6fe7cb44ce1d640acdb2719a635646f5dd04de17ef9da0a9
+hash: sha256:f7a1a3771bcf371384b7bc8299c602b718e12832e20f264c94fa1a680e28f6ae

@@ -57,7 +57,6 @@ markers:
   - {type: punctuation, offset: 2349, content: ）, id: KR3ej024_jc_011-bkkpn10}
   - {type: 'tls:seg-end', offset: 2349, content: '', id: KR3ej024_jc_011-d14.d7.p6s4_end, seg_type: comm}
   - {type: 'tls:seg', offset: 2349, content: '', id: KR3ej024_jc_011-d14.d7.p6s5}
-  - {type: substitution, offset: 2557, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3370}}
   - {type: xml-element, offset: 2625, content: '', id: KR3ej024_jc_011-d14.d7p6_end, name: p, role: close, attrs: {'xml:id': KR3ej024_jc_011-d14.d7p6}}
   back: []
-hash: sha256:e1ca0d5c8d03588110473c6fc03d746e28510545d95d3067b32937bfba799cd6
+hash: sha256:05ef641162fceccfefd82c4e24ea75626eb4e9c08555396c7364812101457a8b

@@ -5,6 +5,7 @@ markers:
   body:
   - {type: xml-element, offset: 10, content: '', id: KR3ej024_jc_019-d22.d2p2, name: p, role: open, attrs: {'xml:id': KR3ej024_jc_019-d22.d2p2}}
   - {type: 'tls:seg', offset: 10, content: '', id: KR3ej024_jc_019-d22.d2.p2s1}
+  - {type: substitution, offset: 89, original: 盪, replacement: 蕩, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16867}}
   - {type: xml-element, offset: 190, content: '', id: KR3ej024_jc_019-d22.d2p2_end, name: p, role: close, attrs: {'xml:id': KR3ej024_jc_019-d22.d2p2}}
   - {type: xml-element, offset: 193, content: '', id: KR3ej024_jc_019-d22.d2.d4p2, name: p, role: open, attrs: {'xml:id': KR3ej024_jc_019-d22.d2.d4p2}}
   - {type: 'tls:seg', offset: 193, content: '', id: KR3ej024_jc_019-d22.d2.d4.p2s1}
@@ -44,6 +45,7 @@ markers:
   - {type: 'tls:seg-start', offset: 298, content: '', id: KR3ej024_jc_019-d22.d2.d5.p4s4, seg_type: comm, member_ids: [KR3ej024_jc_019-d22.d2.d5.p4s4]}
   - {type: 'tls:seg', offset: 298, content: '', id: KR3ej024_jc_019-d22.d2.d5.p4s4}
   - {type: punctuation, offset: 298, content: （, id: KR3ej024_jc_019-bkkpn11}
+  - {type: substitution, offset: 307, original: 秤, replacement: 稱, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20184}}
   - {type: punctuation, offset: 308, content: ）, id: KR3ej024_jc_019-bkkpn12}
   - {type: 'tls:seg-end', offset: 308, content: '', id: KR3ej024_jc_019-d22.d2.d5.p4s4_end, seg_type: comm}
   - {type: xml-element, offset: 308, content: '', id: KR3ej024_jc_019-d22.d2.d5p4_end, name: p, role: close, attrs: {'xml:id': KR3ej024_jc_019-d22.d2.d5p4}}
@@ -156,6 +158,7 @@ markers:
   - {type: punctuation, offset: 767, content: ), id: KR3ej024_jc_019-bkkpn36}
   - {type: 'tls:seg', offset: 767, content: '', id: KR3ej024_jc_019-d22.d3.d6.p6s9}
   - {type: 'tls:seg', offset: 770, content: '', id: KR3ej024_jc_019-d22.d3.d6.p6s10}
+  - {type: substitution, offset: 772, original: 姜, replacement: 薑, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16998}}
   - {type: xml-element, offset: 773, content: '', id: KR3ej024_jc_019-d22.d3.d6p6_end, name: p, role: close, attrs: {'xml:id': KR3ej024_jc_019-d22.d3.d6p6}}
   - {type: xml-element, offset: 773, content: '', id: KR3ej024_jc_019-d22.d3.d6p8, name: p, role: open, attrs: {'xml:id': KR3ej024_jc_019-d22.d3.d6p8}}
   - {type: 'tls:seg', offset: 773, content: '', id: KR3ej024_jc_019-d22.d3.d6.p8s1}
@@ -194,6 +197,7 @@ markers:
   - {type: xml-element, offset: 961, content: '', id: KR3ej024_jc_019-d22.d3.d8p6_end, name: p, role: close, attrs: {'xml:id': KR3ej024_jc_019-d22.d3.d8p6}}
   - {type: xml-element, offset: 964, content: '', id: KR3ej024_jc_019-d22.d3.d9p2, name: p, role: open, attrs: {'xml:id': KR3ej024_jc_019-d22.d3.d9p2}}
   - {type: 'tls:seg', offset: 964, content: '', id: KR3ej024_jc_019-d22.d3.d9.p2s1}
+  - {type: substitution, offset: 1006, original: 樸, replacement: 朴, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20163}}
   - {type: xml-element, offset: 1013, content: '', id: KR3ej024_jc_019-d22.d3.d9p2_end, name: p, role: close, attrs: {'xml:id': KR3ej024_jc_019-d22.d3.d9p2}}
   - {type: xml-element, offset: 1013, content: '', id: KR3ej024_jc_019-d22.d3.d9p4, name: p, role: open, attrs: {'xml:id': KR3ej024_jc_019-d22.d3.d9p4}}
   - {type: 'tls:seg', offset: 1013, content: '', id: KR3ej024_jc_019-d22.d3.d9.p4s1}
@@ -429,4 +433,4 @@ markers:
   - {type: 'tls:seg', offset: 2192, content: '', id: KR3ej024_jc_019-d22.d5.d7.p8s1}
   - {type: xml-element, offset: 2224, content: '', id: KR3ej024_jc_019-d22.d5.d7p8_end, name: p, role: close, attrs: {'xml:id': KR3ej024_jc_019-d22.d5.d7p8}}
   back: []
-hash: sha256:cc0b2650ba690c626b97e81331bbd9fc162c4e3ba369fe2bc5d4195c344b47d0
+hash: sha256:45e4388505f102fafaa2a06da02e96df0a4e972e1d1aa06db4cac5dabae3d3ca

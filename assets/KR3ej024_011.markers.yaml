@@ -27,6 +27,9 @@ markers:
   - {type: xml-element, offset: 1203, content: '', id: KR3ej024_jc_011-d14.d5p2_end, name: p, role: close, attrs: {'xml:id': KR3ej024_jc_011-d14.d5p2}}
   - {type: xml-element, offset: 1203, content: '', id: KR3ej024_jc_011-d14.d5p4, name: p, role: open, attrs: {'xml:id': KR3ej024_jc_011-d14.d5p4}}
   - {type: 'tls:seg', offset: 1203, content: '', id: KR3ej024_jc_011-d14.d5.p4s1}
+  - {type: substitution, offset: 1447, original: 㽲, replacement: 㽱, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-13079}}
+  - {type: substitution, offset: 1551, original: 𥬲, replacement: 檛, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-7674}}
+  - {type: substitution, offset: 1652, original: 㽲, replacement: 㽱, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-13079}}
   - {type: xml-element, offset: 1703, content: '', id: KR3ej024_jc_011-d14.d5p4_end, name: p, role: close, attrs: {'xml:id': KR3ej024_jc_011-d14.d5p4}}
   - {type: xml-element, offset: 1715, content: '', id: KR3ej024_jc_011-d14.d6p2, name: p, role: open, attrs: {'xml:id': KR3ej024_jc_011-d14.d6p2}}
   - {type: 'tls:seg', offset: 1715, content: '', id: KR3ej024_jc_011-d14.d6.p2s1}
@@ -57,6 +60,7 @@ markers:
   - {type: punctuation, offset: 2349, content: ）, id: KR3ej024_jc_011-bkkpn10}
   - {type: 'tls:seg-end', offset: 2349, content: '', id: KR3ej024_jc_011-d14.d7.p6s4_end, seg_type: comm}
   - {type: 'tls:seg', offset: 2349, content: '', id: KR3ej024_jc_011-d14.d7.p6s5}
+  - {type: substitution, offset: 2557, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19653}}
   - {type: xml-element, offset: 2625, content: '', id: KR3ej024_jc_011-d14.d7p6_end, name: p, role: close, attrs: {'xml:id': KR3ej024_jc_011-d14.d7p6}}
   back: []
-hash: sha256:05ef641162fceccfefd82c4e24ea75626eb4e9c08555396c7364812101457a8b
+hash: sha256:fe8a36e95bc134b5d4add3565511f1022b76558338e4b4689f3e481c4a52ef81

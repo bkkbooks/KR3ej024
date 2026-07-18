@@ -6,8 +6,10 @@ markers:
   - {type: xml-element, offset: 8, content: '', id: KR3ej024_jc_001-d4.d2p2, name: p, role: open, attrs: {'xml:id': KR3ej024_jc_001-d4.d2p2}}
   - {type: 'tls:seg', offset: 8, content: '', id: KR3ej024_jc_001-d4.d2.p2s1}
   - {type: punctuation, offset: 20, content: (, id: KR3ej024_jc_001-bkkpn1}
+  - {type: voice, offset: 20, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 22, content: ), id: KR3ej024_jc_001-bkkpn2}
   - {type: punctuation, offset: 194, content: (, id: KR3ej024_jc_001-bkkpn3}
+  - {type: voice, offset: 194, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 196, content: ), id: KR3ej024_jc_001-bkkpn4}
   - {type: substitution, offset: 206, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19653}}
   - {type: xml-element, offset: 213, content: '', id: KR3ej024_jc_001-d4.d2p2_end, name: p, role: close, attrs: {'xml:id': KR3ej024_jc_001-d4.d2p2}}
@@ -133,4 +135,4 @@ markers:
   - {type: substitution, offset: 3444, original: 屍, replacement: 尸, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16180}}
   - {type: xml-element, offset: 3544, content: '', id: KR3ej024_jc_001-d4.d3.d9p2_end, name: p, role: close, attrs: {'xml:id': KR3ej024_jc_001-d4.d3.d9p2}}
   back: []
-hash: sha256:94777cdb8d8593ef925f1b6c7d0ee69a14b2413665a1d151e3151b4127b2a484
+hash: sha256:8012e865e8bdfc1869dc8cf793d33dae793d42428c44a8c37e76860ace4667a6
